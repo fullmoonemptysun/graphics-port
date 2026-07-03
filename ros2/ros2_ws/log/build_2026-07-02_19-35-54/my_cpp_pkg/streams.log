@@ -1,0 +1,35 @@
+[0.022s] Invoking command in '/home/anubis/work/calypso/ros2/ros2_ws/build/my_cpp_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/anubis/work/calypso/ros2/ros2_ws/build/my_cpp_pkg -- -j4 -l4
+[0.099s] -- Found ament_cmake: 2.5.6 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.484s] -- Found rclcpp: 28.1.18 (/opt/ros/jazzy/share/rclcpp/cmake)
+[0.548s] -- Found rosidl_generator_c: 4.6.7 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+[0.577s] -- Found rosidl_generator_cpp: 4.6.7 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+[0.603s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.631s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.746s] -- Found rmw_implementation_cmake: 7.3.3 (/opt/ros/jazzy/share/rmw_implementation_cmake/cmake)
+[0.749s] -- Found rmw_fastrtps_cpp: 8.4.3 (/opt/ros/jazzy/share/rmw_fastrtps_cpp/cmake)
+[0.882s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.178s] -- Configuring done (1.1s)
+[1.194s] -- Generating done (0.0s)
+[1.201s] -- Build files have been written to: /home/anubis/work/calypso/ros2/ros2_ws/build/my_cpp_pkg
+[1.299s] [100%] Built target new_node
+[1.331s] Invoked command in '/home/anubis/work/calypso/ros2/ros2_ws/build/my_cpp_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/anubis/work/calypso/ros2/ros2_ws/build/my_cpp_pkg -- -j4 -l4
+[1.347s] Invoking command in '/home/anubis/work/calypso/ros2/ros2_ws/build/my_cpp_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/anubis/work/calypso/ros2/ros2_ws/build/my_cpp_pkg
+[1.362s] -- Install configuration: ""
+[1.362s] -- Installing: /home/anubis/work/calypso/ros2/ros2_ws/install/my_cpp_pkg/lib/my_cpp_pkg/new_node
+[1.363s] -- Set non-toolchain portion of runtime path of "/home/anubis/work/calypso/ros2/ros2_ws/install/my_cpp_pkg/lib/my_cpp_pkg/new_node" to ""
+[1.363s] -- Up-to-date: /home/anubis/work/calypso/ros2/ros2_ws/install/my_cpp_pkg/share/ament_index/resource_index/package_run_dependencies/my_cpp_pkg
+[1.363s] -- Up-to-date: /home/anubis/work/calypso/ros2/ros2_ws/install/my_cpp_pkg/share/ament_index/resource_index/parent_prefix_path/my_cpp_pkg
+[1.364s] -- Up-to-date: /home/anubis/work/calypso/ros2/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/environment/ament_prefix_path.sh
+[1.364s] -- Up-to-date: /home/anubis/work/calypso/ros2/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/environment/ament_prefix_path.dsv
+[1.364s] -- Up-to-date: /home/anubis/work/calypso/ros2/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/environment/path.sh
+[1.365s] -- Up-to-date: /home/anubis/work/calypso/ros2/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/environment/path.dsv
+[1.365s] -- Up-to-date: /home/anubis/work/calypso/ros2/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/local_setup.bash
+[1.365s] -- Up-to-date: /home/anubis/work/calypso/ros2/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/local_setup.sh
+[1.365s] -- Up-to-date: /home/anubis/work/calypso/ros2/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/local_setup.zsh
+[1.365s] -- Up-to-date: /home/anubis/work/calypso/ros2/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/local_setup.dsv
+[1.366s] -- Installing: /home/anubis/work/calypso/ros2/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/package.dsv
+[1.366s] -- Up-to-date: /home/anubis/work/calypso/ros2/ros2_ws/install/my_cpp_pkg/share/ament_index/resource_index/packages/my_cpp_pkg
+[1.366s] -- Up-to-date: /home/anubis/work/calypso/ros2/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/cmake/my_cpp_pkgConfig.cmake
+[1.366s] -- Up-to-date: /home/anubis/work/calypso/ros2/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/cmake/my_cpp_pkgConfig-version.cmake
+[1.367s] -- Up-to-date: /home/anubis/work/calypso/ros2/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/package.xml
+[1.368s] Invoked command in '/home/anubis/work/calypso/ros2/ros2_ws/build/my_cpp_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/anubis/work/calypso/ros2/ros2_ws/build/my_cpp_pkg
